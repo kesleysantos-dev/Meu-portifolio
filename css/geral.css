@@ -383,7 +383,11 @@ position: fixed;
 .textos-projeto {
     padding: 1.5rem;
 }
-
+strong{
+    font-weight: 600;
+    color: #00ff88;
+    text-decoration: underline;
+}
 .info-projetos {
     margin-bottom: 5px;
 }
