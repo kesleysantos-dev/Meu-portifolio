@@ -585,7 +585,11 @@ strong{
     h1 {
         font-size: 2.6rem;
     }
-
+strong{
+    font-weight: 600;
+    color: #00ff88;
+    text-decoration: underline;
+}
     .cabecalho-sub-titulo {
         font-size: 1.2rem;
     }
@@ -652,7 +656,11 @@ strong{
         font-size: 2.1rem;
         text-align: center;
     }
-
+strong{
+    font-weight: 600;
+    color: #00ff88;
+    text-decoration: underline;
+}
     .cabecalho {
         padding: 0 1rem;
     }
